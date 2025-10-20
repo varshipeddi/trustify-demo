@@ -27,8 +27,8 @@ Trustify solves this by using **AI** to verify a product’s authenticity from a
 | Component | Tools Used |
 |------------|-------------|
 | **AI / ML** | Python, TensorFlow, Keras, OpenCV, NumPy |
-| **Blockchain** | Solidity, Ethereum, Ganache, Remix, Streamlit |
-| **Frontend / Integration** | Flask, Web3.py |
+| **Blockchain** | Solidity, Ethereum, Ganache, Remix |
+| **Frontend / Integration** | Streamlit |
 | **Dataset** | Custom dataset of real vs fake AirPods |
 | **Version Control** | Git, GitHub |
 
